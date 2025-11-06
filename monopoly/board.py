@@ -1,0 +1,50 @@
+from monopoly.data import tiles_data
+
+class Board():
+
+    def __init__(self):
+
+        self.board = tiles_data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
